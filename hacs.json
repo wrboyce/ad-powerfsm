@@ -1,0 +1,5 @@
+{
+  "name": "PowerFSM",
+  "render_readme": true,
+  "domains": ["sensor"]
+}
